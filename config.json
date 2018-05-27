@@ -1,5 +1,5 @@
 {
-    "app_id" : "net.moodle.learn",
+    "app_id" : "net.e265.e265",
     "versioncode" : "3",
     "versionname" : "1.2",
     "cache_expiration_time" : 300000,
@@ -8,6 +8,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "http://e265.net",
+    "siteurl": "http://192.168.1.102:8081/moodle",
     "gcmpn": "learn-moodle-1159"
 }
